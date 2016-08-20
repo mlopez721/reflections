@@ -12,6 +12,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	When I'd like to try new or experimental features that aren't going to be in the final program, or a totally different version of the program without changing the original files.
 
 How do the diagrams help you visualize the branch structure?
 
