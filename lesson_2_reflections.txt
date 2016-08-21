@@ -15,6 +15,7 @@ organized? How would branches help?
 	When I'd like to try new or experimental features that aren't going to be in the final program, or a totally different version of the program without changing the original files.
 
 How do the diagrams help you visualize the branch structure?
+	The diagram shows in a clear way where the files takes a separate way.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
