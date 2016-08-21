@@ -21,5 +21,7 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 	The result is the mix of the two branches in one, with both parts of code. We represent it in that way because it's what it does. 
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?	
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+	Pros: saves a lot of work
+	Cons: sometimes can't do the work automatically
